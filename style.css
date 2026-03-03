@@ -1,6 +1,6 @@
  body {
     font-family: Arial, sans-serif;
-    background: #f0f0f0;
+    background: #CEACAC;
     height: 100vh;
     margin: 0;
     display: flex;
@@ -27,7 +27,7 @@ button {
     margin-top: 10px;
     border-radius: 6px;
     border: none;
-    background: #3498db;
+    background: #6FABD3;
     color: white;
     font-size: 15px;
     cursor: pointer;
